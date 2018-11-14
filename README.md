@@ -1,2 +1,2 @@
-# GhostKun
-Newbie Sedang Belajar
+#GhostName
+Solo Player Newbie Berkelas
