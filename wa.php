@@ -1,4 +1,4 @@
-
+<?php
 echo "COPYRIGHT : Mr.Ghost-Name\n\n";
 echo "Korban Yang Mau Di Eue?\nInput : ";
 $nomer = trim(fgets(STDIN));
