@@ -1,0 +1,2 @@
+# GhostKun
+Newbie Sedang Belajar
