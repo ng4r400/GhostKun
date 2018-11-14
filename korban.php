@@ -1,4 +1,4 @@
-
+<?php
 // Copyright : Mr.Ghost-Name
 function send($phone){
 $config['headers'] = explode("\n",'Host: www.airbnb.co.id
