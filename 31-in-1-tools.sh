@@ -296,7 +296,7 @@ echo "║╔══════════════════════�
 echo "║║[÷]Author : GhostName ║║"
 echo "║║ ║║"
 
-echo "║║[÷]Thanks To : Indonesia Termux Association,J.C.A And ALLQ ║║"
+echo "║║[÷]Thanks To : Indonesia Termux Association,J.C.A And ALL Cyber Indonesia ║║"
 
 
 echo "║║ ║║"
