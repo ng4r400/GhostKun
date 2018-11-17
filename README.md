@@ -1,2 +1,2 @@
-#GhostName
-Solo Player Newbie Berkelas
+# GhostName
+# Solo Player Newbie Berkelas
